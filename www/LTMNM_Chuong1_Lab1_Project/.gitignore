@@ -1,0 +1,5 @@
+bai11_upload_anh/uploads/*
+!bai11_upload_anh/uploads/.gitkeep
+bai15_mini_project/uploads/*
+!bai15_mini_project/uploads/.gitkeep
+.DS_Store

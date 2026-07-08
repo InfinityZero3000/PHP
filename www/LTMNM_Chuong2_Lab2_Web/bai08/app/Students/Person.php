@@ -1,0 +1,1 @@
+<?php declare(strict_types=1);namespace App\Students;class Person{public function __construct(protected string $name,protected int $age){if($age<1||$age>120)throw new \InvalidArgumentException('Tuổi phải từ 1 đến 120.');}}

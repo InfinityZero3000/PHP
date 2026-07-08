@@ -1,0 +1,157 @@
+[
+  {
+    "file": "index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/index.php"
+  },
+  {
+    "file": "bai01_hello/hello.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai01_hello/hello.php"
+  },
+  {
+    "file": "bai02_bien/gioi_thieu.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai02_bien/gioi_thieu.php"
+  },
+  {
+    "file": "bai03_hinh_tron/circle_form.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai03_hinh_tron/circle_form.php"
+  },
+  {
+    "file": "bai03_hinh_tron/circle.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai03_hinh_tron/circle.php"
+  },
+  {
+    "file": "bai04_xep_loai/grade_form.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai04_xep_loai/grade_form.php"
+  },
+  {
+    "file": "bai04_xep_loai/grade.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai04_xep_loai/grade.php"
+  },
+  {
+    "file": "bai05_cuu_chuong/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai05_cuu_chuong/index.php"
+  },
+  {
+    "file": "bai06_so_nguyen_to/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai06_so_nguyen_to/index.php"
+  },
+  {
+    "file": "bai07_ham_dien_tich/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai07_ham_dien_tich/index.php"
+  },
+  {
+    "file": "bai08_min_max/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai08_min_max/index.php"
+  },
+  {
+    "file": "bai09_dao_chuoi/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai09_dao_chuoi/index.php"
+  },
+  {
+    "file": "bai10_form_thong_tin/info_form.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai10_form_thong_tin/info_form.php"
+  },
+  {
+    "file": "bai10_form_thong_tin/info_process.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai10_form_thong_tin/info_process.php"
+  },
+  {
+    "file": "bai11_upload_anh/upload_form.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai11_upload_anh/upload_form.php"
+  },
+  {
+    "file": "bai11_upload_anh/upload.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai11_upload_anh/upload.php"
+  },
+  {
+    "file": "bai12_ghi_file/save_form.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai12_ghi_file/save_form.php"
+  },
+  {
+    "file": "bai12_ghi_file/save.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai12_ghi_file/save.php"
+  },
+  {
+    "file": "bai13_session/login.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai13_session/login.php"
+  },
+  {
+    "file": "bai13_session/welcome.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai13_session/welcome.php"
+  },
+  {
+    "file": "bai13_session/logout.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai13_session/logout.php"
+  },
+  {
+    "file": "bai14_cookie/remember.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai14_cookie/remember.php"
+  },
+  {
+    "file": "bai15_mini_project/login.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai15_mini_project/login.php"
+  },
+  {
+    "file": "bai15_mini_project/upload.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai15_mini_project/upload.php"
+  },
+  {
+    "file": "bai15_mini_project/files.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai15_mini_project/files.php"
+  },
+  {
+    "file": "bai15_mini_project/logout.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai15_mini_project/logout.php"
+  },
+  {
+    "file": "bai16_tong_1_den_n/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai16_tong_1_den_n/index.php"
+  },
+  {
+    "file": "bai17_chu_hoa/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai17_chu_hoa/index.php"
+  },
+  {
+    "file": "bai18_quan_ly_sinh_vien/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai18_quan_ly_sinh_vien/index.php"
+  },
+  {
+    "file": "bai19_ghi_chu/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai19_ghi_chu/index.php"
+  },
+  {
+    "file": "bai20_ghi_nho_ten/index.php",
+    "ok": true,
+    "output": "No syntax errors detected in /mnt/data/LTMNM_Chuong1_Lab1_Project/bai20_ghi_nho_ten/index.php"
+  }
+]

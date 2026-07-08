@@ -1,0 +1,116 @@
+:root {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1f2937;
+    background: #f4f7fb;
+}
+* { box-sizing: border-box; }
+body {
+    margin: 0;
+    padding: 32px 16px;
+    background: #f4f7fb;
+}
+.container {
+    width: min(920px, 100%);
+    margin: 0 auto;
+    background: #fff;
+    padding: 28px;
+    border-radius: 14px;
+    box-shadow: 0 8px 28px rgba(31, 41, 55, 0.08);
+}
+h1, h2, h3 { color: #0f3d78; }
+a { color: #0759b8; text-decoration: none; }
+a:hover { text-decoration: underline; }
+form {
+    display: grid;
+    gap: 14px;
+    max-width: 560px;
+}
+label { font-weight: 700; }
+input, textarea, select, button {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font: inherit;
+}
+button, input[type="submit"] {
+    border: 0;
+    background: #0f62b5;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}
+button:hover, input[type="submit"]:hover { background: #0b4f92; }
+.result {
+    margin-top: 18px;
+    padding: 14px;
+    border-left: 4px solid #0f62b5;
+    background: #eef6ff;
+    border-radius: 6px;
+}
+.error {
+    margin-top: 18px;
+    padding: 14px;
+    border-left: 4px solid #c62828;
+    background: #fff1f1;
+    color: #8b1e1e;
+    border-radius: 6px;
+}
+.success {
+    margin-top: 18px;
+    padding: 14px;
+    border-left: 4px solid #2e7d32;
+    background: #eef9ef;
+    color: #205d24;
+    border-radius: 6px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 16px;
+}
+th, td {
+    border: 1px solid #d8dee8;
+    padding: 10px;
+    text-align: left;
+}
+th { background: #eaf2fb; }
+.nav {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 14px;
+}
+.card {
+    display: block;
+    padding: 16px;
+    border: 1px solid #dbe4ef;
+    border-radius: 10px;
+    background: #fbfdff;
+}
+.card strong { display: block; margin-bottom: 6px; }
+code, pre {
+    font-family: Consolas, Monaco, monospace;
+}
+pre {
+    white-space: pre-wrap;
+    background: #111827;
+    color: #f8fafc;
+    padding: 14px;
+    border-radius: 8px;
+    overflow: auto;
+}
+img.preview {
+    display: block;
+    max-width: 360px;
+    width: 100%;
+    margin-top: 16px;
+    border-radius: 10px;
+    border: 1px solid #d8dee8;
+}
+.small { color: #64748b; font-size: 0.92rem; }
