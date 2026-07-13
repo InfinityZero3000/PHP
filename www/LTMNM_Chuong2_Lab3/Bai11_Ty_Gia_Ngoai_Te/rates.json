@@ -1,0 +1,5 @@
+[
+    { "currency": "USD", "buy": 25400, "sell": 25800 },
+    { "currency": "EUR", "buy": 27200, "sell": 28000 },
+    { "currency": "JPY", "buy": 168, "sell": 176 }
+]

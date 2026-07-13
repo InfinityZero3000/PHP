@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 id="time"></h1>
+<script>
+function getTime() {
+    fetch('time.php')
+        .then(res => res.text())
+        .then(data => document.getElementById("time").innerText = data);
+}
+setInterval(getTime, 5000);
+getTime();
+</script>
+</body>
+</html>
