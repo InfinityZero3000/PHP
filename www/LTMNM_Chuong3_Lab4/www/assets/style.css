@@ -1,0 +1,31 @@
+body {
+    background: #f6f7f9;
+}
+
+.card,
+.table-responsive {
+    background: #fff;
+}
+
+.table td,
+.table th {
+    vertical-align: middle;
+}
+
+.actions {
+    white-space: nowrap;
+}
+
+.required::after {
+    content: " *";
+    color: #dc3545;
+}
+
+.sort-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.sort-link:hover {
+    text-decoration: underline;
+}
