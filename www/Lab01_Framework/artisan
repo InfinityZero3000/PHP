@@ -1,0 +1,14 @@
+#!/usr/bin/env php
+<?php
+
+// Nạp bộ autoload do Composer sinh ra.
+require __DIR__.'/vendor/autoload.php';
+
+// Khởi tạo ứng dụng Laravel từ tệp bootstrap.
+$app = require_once __DIR__.'/bootstrap/app.php';
+
+// Xử lý lệnh Artisan được truyền từ terminal.
+$status = $app->handleCommand(new Symfony\Component\Console\Input\ArgvInput);
+
+// Trả mã kết thúc của lệnh cho hệ điều hành.
+exit($status);

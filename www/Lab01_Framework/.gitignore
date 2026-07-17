@@ -1,0 +1,13 @@
+/.phpunit.cache
+/.idea
+/.vscode
+/.env
+/vendor
+/node_modules
+/public/build
+/storage/*.key
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+/storage/logs/*
+!.gitignore
